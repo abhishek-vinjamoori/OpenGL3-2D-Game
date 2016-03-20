@@ -1,0 +1,9 @@
+Controls -
+
+1) Arrow keys(Side arrows) to control the cannon angle
+2) Hold Space to gain some power and shoot
+3) 'w','a','s','d' - To pan the world.
+4) Mouse Scroll - to Zoom in, Zoom Out
+5) 'p' - White Bird(Drops an egg)
+6) 'l' - Blue birds(Split into three)
+7) 'f' - Yellow Bird(Gets extra push)
