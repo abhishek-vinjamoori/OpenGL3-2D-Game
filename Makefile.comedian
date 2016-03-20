@@ -1,9 +1,0 @@
-all: sample2D
-
-sample3D: Sample_GL3.cpp
-	g++ -o sample3D Sample_GL3.cpp -lGL -lGLU -lGLEW -lglut -lm  
-
-sample2D: mycode.cpp
-	g++ -o sample2D mycode.cpp glad.c -lGL -lglfw -ldl -lGLU -lGLEW -lm -lglut
-clean:
-	rm sample2D 
